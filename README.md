@@ -7,8 +7,6 @@ Welcome to The Mean and Unbeatable Tic-Tac-Toe Foe, where you'll face off agains
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
